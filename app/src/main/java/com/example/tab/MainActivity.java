@@ -1,3 +1,9 @@
+/* This is main java file for integrating
+tablayout with viewpager in android*/
+
+
+
+
 package com.example.tab;
 
 import androidx.appcompat.app.AppCompatActivity;
